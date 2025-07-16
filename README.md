@@ -1,5 +1,5 @@
 # writing-samples-1
-# 👋 Hi there, I'm Rupinder Bhatty
+# 👋 Hi there, I'm Rupinder
 ### 💡 About Me  
 Welcome to my GitHub profile!  
 I’m a software developer with a strong background in Java server-side technologies, now exploring the world of technical writing. My mission is to bridge the gap between complex technology and clear, helpful documentation.
